@@ -1,0 +1,23 @@
+{
+  "name": "linkedlists",
+  "version": "1.0.0",
+  "description": "Going to learn how to create linked lists.",
+  "main": "linkedlists.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthpantaleo/linkedlists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthpantaleo/linkedlists/issues"
+  },
+  "homepage": "https://github.com/anthpantaleo/linkedlists#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}

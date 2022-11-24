@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1669306839420" clover="3.2.0">
+  <project timestamp="1669306839421" name="All files">
+    <metrics statements="36" coveredstatements="30" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="8" elements="57" coveredelements="50" complexity="0" loc="36" ncloc="36" packages="1" files="1" classes="1"/>
+    <file name="linkedlists.js" path="/home/anthpantaleo/repos/linkedlists/linkedlists.js">
+      <metrics statements="36" coveredstatements="30" conditionals="12" coveredconditionals="12" methods="9" coveredmethods="8"/>
+      <line num="13" count="14" type="stmt"/>
+      <line num="14" count="14" type="stmt"/>
+      <line num="20" count="37" type="stmt"/>
+      <line num="21" count="37" type="stmt"/>
+      <line num="22" count="37" type="stmt"/>
+      <line num="28" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="31" count="6" type="stmt"/>
+      <line num="32" count="7" type="stmt"/>
+      <line num="34" count="6" type="stmt"/>
+      <line num="38" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="3" type="stmt"/>
+      <line num="42" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="54" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="3" type="stmt"/>
+      <line num="58" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="61" count="1" type="stmt"/>
+      <line num="65" count="0" type="stmt"/>
+      <line num="66" count="0" type="stmt"/>
+      <line num="67" count="0" type="stmt"/>
+      <line num="68" count="0" type="stmt"/>
+      <line num="69" count="0" type="stmt"/>
+      <line num="71" count="0" type="stmt"/>
+      <line num="77" count="38" type="stmt"/>
+      <line num="78" count="38" type="stmt"/>
+      <line num="82" count="1" type="stmt"/>
+      <line num="83" count="13" type="stmt"/>
+      <line num="84" count="13" type="stmt"/>
+      <line num="85" count="34" type="stmt"/>
+      <line num="87" count="13" type="stmt"/>
+      <line num="90" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
